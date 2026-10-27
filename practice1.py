@@ -37,6 +37,7 @@ mystring="hello"
 
 if mystring=="hello":
     print("string:%s" % mystring)
+    #print(f"Enter string:")
 
 if(isinstance(myfloat,float) and myfloat==7.0):
     print("myfloatis%s" % myfloat)
